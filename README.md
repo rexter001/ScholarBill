@@ -164,7 +164,7 @@ ScholarBill
 
 ## Live Demo
 
-Frontend: scholar-bill.vercel.app
+Frontend: http://scholar-bill.vercel.app
 
 Backend: https://scholarbill.onrender.com
 
