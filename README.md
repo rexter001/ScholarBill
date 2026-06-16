@@ -166,7 +166,7 @@ ScholarBill
 
 Frontend: https://your-vercel-url.vercel.app
 
-Backend: https://your-render-url.onrender.com
+Backend: https://scholarbill.onrender.com
 
 ---
 
